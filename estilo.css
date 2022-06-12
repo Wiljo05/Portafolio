@@ -109,13 +109,16 @@ section p{
     margin: 0 auto;
 }
 .sobre{
-    background-image:url(https://img.freepik.com/foto-gratis/fondo-geometrico-formas-iguales-tres-colores_23-2147668444.jpg?size=626&ext=jpg);
+    background-image:url(https://i.pinimg.com/736x/b9/5a/45/b95a45535227382bd070458a9b3d31e8.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .contacto{
-    background-color:#EE9A12;
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-pantalla-abstracto-lluvia-pixeles_23-2148369937.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 form{
     width: 550px;
@@ -214,7 +217,9 @@ textarea{
     transition-delay: 0.75s;
 }
 .descrip{
-    color:black;
-    background:linear-gradient(70deg,#F53B1F,orange);
-
+    color:white;
+    background:black;
+}
+.tema{
+    color: #a945c7;
 }
